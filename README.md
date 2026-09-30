@@ -1,4 +1,4 @@
-# ClassDesk (Version 2.2)
+# ClassDesk (Beta Version)
 
 A full-stack tuition / class scheduling platform. Tutors and admins manage courses,
 recurring batches, sessions, attendance, and billing; students (or parents) browse
